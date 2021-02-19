@@ -1,7 +1,7 @@
 # make-report-files-templateHTML
 Create PDF report using template HTML with easyPrint libs
 
-## Prequistes 
+## Prerequisites    
 
 - virtual environment python
 - pip
